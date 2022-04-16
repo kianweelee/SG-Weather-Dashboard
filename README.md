@@ -6,3 +6,6 @@
 
 ## Setting up the packages
 - You can install them by typing ```install.packages(c('shiny','shinydashboard','httr','jsonlite','ggplot2','plotly','tidyquant','scales','dplyr','waiter','dashboardthemes'))```
+
+## API website
+- https://data.gov.sg/dataset/realtime-weather-readings
