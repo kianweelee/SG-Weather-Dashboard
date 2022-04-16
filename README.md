@@ -1,2 +1,8 @@
 # Singapore Weather Dashboard
-![](https://i.ibb.co/PYbJJz9/Screen-Shot-2022-04-16-at-10-08-09-am.png)
+
+## In this series, we have covered:
+1. Setting up the packages needed
+2. Understanding the parameters in our API
+
+## Setting up the packages
+- You can install them by typing ```install.packages(c('shiny','shinydashboard','httr','jsonlite','ggplot2','plotly','tidyquant','scales','dplyr','waiter','dashboardthemes'))```
